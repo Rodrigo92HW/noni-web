@@ -1,0 +1,93 @@
+[
+    {
+        "Name" : "María Agustina Marega",
+        "Age" : 26,
+        "Sex" : "Female",
+        "Picture" : "https://i.imgur.com/bx1ct70.png",
+        "Nationality" : ["ar"],
+        "Area" : "Artist",
+        "Position" : "3D Character Artist  & 3D animator",
+        "Skills" : "3D art, 3D animation",
+        "Experience" : "I'm a junior 3D artist with 2 years of experience in 3D modelling, rigging, and animation.",
+        "Notes" : "I use Photoshop, Maya, ZBrush, Substance, 3D Coat and Unity.",
+        "Contacts" : "https://www.linkedin.com/in/agushmar/"
+    },
+    {
+        "Name" : "Luciana Pagano-Cestare",
+        "Age" : 23,
+        "Sex" : "Female",
+        "Picture" : "https://i.imgur.com/obtJQs5.png",
+        "Nationality" : ["ar"],
+        "Area" : "Artist",
+        "Position" : "3D Environmental Artist",
+        "Skills" : "3DsMax, Vray 5, Photoshop, Substance, Tank in OW2 ",
+        "Experience" : "3D Generalist, Community Manager",
+        "Notes" : "I really like drinking water",
+        "Contacts" : "https://linktr.ee/lucianapagano"
+    },
+    {
+        "Name" : "Federico Zinni",
+        "Age" : 29,
+        "Sex" : "Male",
+        "Picture" : "",
+        "Nationality" : ["ar"],
+        "Area" : "Developer",
+        "Position" : "Lead Programmer, Game Development. ",
+        "Skills" : "Unity, Solid, C#, GOF patrones de  diseño.",
+        "Experience" : "Game development in a studio (4 year old)",
+        "Notes" : "I use…",
+        "Contacts" : "https://www.linkedin.com/in/federico-zinni-9aa905b6/"
+    },
+    {
+        "Name" : "Gabriel Tarazona",
+        "Age" : 31,
+        "Sex" : "Male",
+        "Picture" : "",
+        "Nationality" : ["pe"],
+        "Area" : "Musician",
+        "Position" : "Musico y Diseñador de sonido",
+        "Skills" : "Composicion musical, produccion musical, Foley, diseño de ambiente musical",
+        "Experience" : "Game Jams, y Proyectos personales de videojuegos, Transcripcion y arreglos de conjuntos musicales, producion de canciones",
+        "Notes" : "Hola, soy Gabriel, me dicen Gabo, me dedico a componer Musica y diseñar el ambiente sonoro, con orientacion en los medios audiovisuales y videojuegos, Tengo formacion en Musica Clasica, Folclorica y Contemporanea, Soy multinstrumentista y me apasiona fervientemente componer musica que acompañe escenarios para complementar la transmicion del sentimiento que se busca lograr.",
+        "Contacts" : "https://www.instagram.com/irogabo/"
+    },
+    {
+        "Name" : "Rodrigo Harispe",
+        "Age" : 30,
+        "Sex" : "Male",
+        "Picture" : "",
+        "Nationality" : ["ar"],
+        "Area" : "Developer",
+        "Position" : "Game Developer and Coding",
+        "Skills" : "C#, HTML, CSS, React, and best Ahri LAS",
+        "Experience" : "Game Jams, App develop and web develop",
+        "Notes" : "Let's try something new",
+        "Contacts" : "https://www.linkedin.com/in/rodrigo-harispe/"
+    },
+    {
+        "Name" : "Paloma Perez Tavella",
+        "Age" : 19,
+        "Sex" : "Female",
+        "Picture" : "",
+        "Nationality" : ["ar"],
+        "Area" : "2D character artist, environment design, concept arts, fan arts.",
+        "Position" : "Artist",
+        "Skills" : "2D art, concept design, pixel art.",
+        "Experience" : "2D Artist in art studio",
+        "Notes" : "I use…",
+        "Contacts" : "https://www.linkedin.com/in/paloma-perez-tavella-0a6401245"
+    },
+    {
+        "Name" : "Pablo Agustin Mercado Galvagno",
+        "Age" : 20,
+        "Sex" : "Male",
+        "Picture" : "",
+        "Nationality" : ["ar"],
+        "Area" : "",
+        "Position" : "",
+        "Skills" : "",
+        "Experience" : "",
+        "Notes" : "",
+        "Contacts" : "https://www.linkedin.com/in/pablo-agustin-mercado-galvagno-64484521a/"
+    }
+]
