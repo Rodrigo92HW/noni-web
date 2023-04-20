@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/noni-web/static/css/main.3b15b66c.css",
+    "main.js": "/noni-web/static/js/main.878ee091.js",
+    "static/media/linkedin.png": "/noni-web/static/media/linkedin.45394e1bbe628643df3d.png",
+    "index.html": "/noni-web/index.html",
+    "main.3b15b66c.css.map": "/noni-web/static/css/main.3b15b66c.css.map",
+    "main.878ee091.js.map": "/noni-web/static/js/main.878ee091.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b15b66c.css",
+    "static/js/main.878ee091.js"
+  ]
+}
