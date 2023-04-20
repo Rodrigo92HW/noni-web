@@ -11,7 +11,7 @@ const Header = () => {
 
     return (
         <div className={`header ${isActive('/Main') ? 'active' : ''}`}>
-            <NavLink to='/'>Home</NavLink>
+            <NavLink to='/noni-web'>Home</NavLink>
             <NavLink to='/Games'>Games</NavLink>
             <NavLink to='/Team'>Team</NavLink>
             <NavLink to='/Info'>Info</NavLink>

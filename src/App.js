@@ -22,7 +22,7 @@ const App = () => {
         <Header/>
         <Routes>
           <Route path='*' element={<Error404/>}/>
-          <Route path='/' element={<Home/>}/>
+          <Route path='/noni-web' element={<Home/>}/>
           <Route path='/Games' element={<Games/>}/>
           <Route path='/Team' element={<Members/>}/>
           <Route path='/Info' element={<Info/>}/>
